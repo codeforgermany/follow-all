@@ -1,8 +1,8 @@
 en:
   app:
-    description: "Follow all the members of a Twitter list with a single click"
+    description: "Follow key members of the Code for Germany community with a single click"
     name: "Follow All"
-    org: "Code for America"
+    org: "Code for America / Code for Germany"
   button:
     follow_all: "Follow all members of this list!"
     sign_in: "Sign in with Twitter"
