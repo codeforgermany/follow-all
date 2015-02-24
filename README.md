@@ -37,7 +37,6 @@ Once you obtain credentials, substitute your consumer key and secret into the
 command below. You can find your consumer key and secret in your Twitter app's
 "Keys and Access Tokens" section.
 
-
 [apps]: http://dev.twitter.com/apps
 
     CONSUMER_KEY=abc CONSUMER_SECRET=123 rails server
